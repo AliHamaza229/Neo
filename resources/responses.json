@@ -1,0 +1,11 @@
+{
+  "no_user": [
+    "Hey, he’s not here right now, want to leave a message?",
+    "Sir is away, can I take a note?",
+    "Sir is busy, would you like to leave a message?"
+  ],
+  "unknown_condition": [
+    "Cannot detect sir right now.",
+    "Not sure where sir is, do you want to leave a message?"
+  ]
+}
