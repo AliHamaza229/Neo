@@ -4,7 +4,6 @@ import threading
 import os
 from core import (
     speech_io,
-    call_simulator,
     dialogue_manager,
     condition_detector,
     alert_manager,
@@ -173,3 +172,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
